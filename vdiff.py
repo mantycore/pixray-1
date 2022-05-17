@@ -25,7 +25,8 @@ model_urls = {
     "yfcc_2":      "http://batbot.tv/ai/models/v-diffusion/yfcc_2.pth",
     "yfcc_1":      "http://batbot.tv/ai/models/v-diffusion/yfcc_2.pth",
     "cc12m_1":     "http://batbot.tv/ai/models/v-diffusion/cc12m_1.pth",
-    "cc12m_1_cfg": "http://batbot.tv/ai/models/v-diffusion/cc12m_1_cfg.pth"
+    "cc12m_1_cfg": "http://batbot.tv/ai/models/v-diffusion/cc12m_1_cfg.pth",
+    "danbooru":     "http://batbot.tv/ai/models/v-diffusion/danbooru_128.pth"
 }
 
 
